@@ -1,0 +1,3 @@
+- Started Titanic dataset
+- Learned data cleaning
+- Faced issue with missing values
